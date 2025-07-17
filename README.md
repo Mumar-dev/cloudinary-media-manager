@@ -35,7 +35,7 @@ This project provides a simple and secure way to upload **images** and **videos*
 
   1. Clone the repository:
      ```bash
-   git clone https://github.com/yourusername/cloudinary-media-manager.git
+   git clone https://github.com/Mumar-dev/cloudinary-media-manager.git
    cd cloudinary-media-manager
 
   2. Install dependencies:
