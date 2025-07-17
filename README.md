@@ -34,9 +34,10 @@ This project provides a simple and secure way to upload **images** and **videos*
 - Environment variables for secrets
 
   1. Clone the repository:
-     ```bash
+   ```bash
    git clone https://github.com/Mumar-dev/cloudinary-media-manager.git
    cd cloudinary-media-manager
+
 
   2. Install dependencies:
      ```bash
