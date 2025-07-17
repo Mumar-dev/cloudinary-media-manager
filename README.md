@@ -37,13 +37,6 @@ This project provides a simple and secure way to upload **images** and **videos*
    ```bash
    git clone https://github.com/Mumar-dev/cloudinary-media-manager.git
    cd cloudinary-media-manager
-
-
-  2. Install dependencies:
-     ```bash
-     npm install
-
+  2. npm install
   3. npm run dev
-    ```bash
-    npm run dev
 
